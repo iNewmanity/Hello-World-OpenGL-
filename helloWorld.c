@@ -22,7 +22,7 @@ void display(void)
 	char *myText = "Hello World!";
 	int j;
 
-	glColor3f(1.0,0.0,0.0);
+	glColor3f(1.0,0.0,1.0);
 
 	glBegin(GL_POLYGON);
 	glVertex3f((width/2)-(width/4), (height/2)-(height/4), 0.0);
