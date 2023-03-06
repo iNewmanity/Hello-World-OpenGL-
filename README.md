@@ -1,3 +1,7 @@
+---
+marp: false
+---
+
 # helloWorld - OpenGL Beispiel
 
 Dieses Beispiel wird in der Vorlesung Computergrafik an der DHBW-Karlsruhe verwendet.
